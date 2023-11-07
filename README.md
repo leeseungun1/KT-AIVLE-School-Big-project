@@ -28,6 +28,7 @@ AI 선거 법률 안내 서비스(백발백중)
 
 ---
 ##### 시연영상
+[![image](https://drive.google.com/file/d/1cbv12IbwKzo-EyMtKk8QKAoN5sAHMAKm/view?usp=sharing)](https://drive.google.com/file/d/1dObFjcYBYERQwFg66ssBEMaTtaRuJiUt/view?usp=sharing)
 
 [image](https://drive.google.com/file/d/1dObFjcYBYERQwFg66ssBEMaTtaRuJiUt/view?usp=sharing)
   
