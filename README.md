@@ -31,3 +31,9 @@ AI 선거 법률 안내 서비스(백발백중)
 [![image](https://drive.google.com/uc?export=view&id=1cbv12IbwKzo-EyMtKk8QKAoN5sAHMAKm)](https://drive.google.com/file/d/1dObFjcYBYERQwFg66ssBEMaTtaRuJiUt/view?usp=sharing)
   
 ---
+##### 데이터셋
+[데이터셋](https://drive.google.com/drive/folders/1lOKEZcdqVHjjN-O41VNjV97Zme6rbAQR?usp=sharing)
+
+---
+##### 프로토타입
+[프로토 타입](https://drive.google.com/drive/folders/1lOKEZcdqVHjjN-O41VNjV97Zme6rbAQR?usp=sharing)
